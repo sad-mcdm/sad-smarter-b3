@@ -77,7 +77,7 @@ sad-smarter-b3/
 
 ### Passo 1: Clone o Repositório e crie o Ambiente Virtual
 ```bash
-git clone https://github.com/pedrogouveia001/sad-smarter-b3.git
+git clone https://github.com/sad-mcdm/sad-smarter-b3.git
 cd sad-smarter-b3
 python -m venv .venv
 ```
